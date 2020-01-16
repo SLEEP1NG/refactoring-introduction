@@ -1,0 +1,19 @@
+{
+  "name": "refactoring-introduction",
+  "version": "0.1.0",
+  "description": "Introduction - Web Refactoring into Testability",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThirstyHead/refactoring-introduction.git"
+  },
+  "author": "Scott Davis <scott@thirstyhead.com> (https://thirstyhead.com/)",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/ThirstyHead/refactoring-introduction/issues"
+  },
+  "homepage": "https://github.com/ThirstyHead/refactoring-introduction#readme"
+}
