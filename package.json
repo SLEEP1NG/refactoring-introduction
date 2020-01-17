@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ThirstyHead/refactoring-introduction/issues"
   },
-  "homepage": "https://github.com/ThirstyHead/refactoring-introduction#readme"
+  "homepage": "https://github.com/ThirstyHead/refactoring-introduction#readme",
+  "dependencies": {
+    "talk-o-vision": "github:thirstyhead/talk-o-vision"
+  }
 }
